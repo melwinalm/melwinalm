@@ -4,7 +4,9 @@ I am Full Stack Developer with 5+ years of experience building web solutions.
 
 ### My GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=melwinalm&count_private=true&show_icons=true&theme=graywhite&hide=contribs" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melwinalm&count_private=true&show_icons=true&theme=graywhite&hide=contribs" />
+</div>
 
 ### My OSS contributions
 
